@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   enable-background="new 0 0 511.99 511.99"
+   height="512"
+   viewBox="0 0 511.99 511.99"
+   width="512"
+   version="1.1"
+   sodipodi:docname="1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata248">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs246" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     id="namedview244"
+     showgrid="false"
+     inkscape:zoom="0.81933594"
+     inkscape:cx="178.11709"
+     inkscape:cy="301.13796"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <g
+     id="g241"
+     transform="matrix(0.72521156,0,0,0.72521156,70.344193,70.344468)">
+    <path
+       d="M 446.822,213.631 255.995,150.375 65.168,213.631 0.01,317.129 59.994,337.013 V 447.02 l 196,64.97 196,-64.97 V 337.013 l 59.984,-19.884 z m -57.5,12.545 -133.327,44.195 -133.327,-44.195 133.327,-44.195 z m -343.52,74.527 35.627,-56.592 151.67,50.276 -35.626,56.591 z m 44.193,46.255 120.345,39.892 30.655,-48.693 v 137.256 l -151,-50.054 z m 181,128.454 V 338.156 l 30.655,48.693 120.345,-39.892 v 78.401 z m 43.522,-124.433 -35.626,-56.591 151.67,-50.276 35.627,56.592 z"
+       id="path233" />
+    <path
+       d="m 240.995,0 h 30 v 100.174 h -30 z"
+       id="path235" />
+    <path
+       d="m 122.952,31.63 h 30 v 100.174 h -30 z"
+       transform="matrix(0.866,-0.5,0.5,0.866,-22.376,79.924)"
+       id="path237" />
+    <path
+       d="m 323.951,66.717 h 100.174 v 30 H 323.951 Z"
+       transform="matrix(0.5,-0.866,0.866,0.5,116.249,364.784)"
+       id="path239" />
+  </g>
+</svg>
